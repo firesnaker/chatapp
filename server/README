@@ -1,0 +1,4 @@
+#chatapp
+
+Server part of the chatapp.
+nodejs/ will provide backend using nodejs with express
